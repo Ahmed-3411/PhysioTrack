@@ -166,7 +166,7 @@ Physiapp. VisiApp®: Personalized Physical Therapy and Telehealth Platform.
 
 ---
 
-## 🔧 Dependencies
+## 🔧 Python Dependencies
 ```Python Libraries
 # Core scientific libraries
 numpy
