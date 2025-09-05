@@ -77,6 +77,74 @@ By connecting the **ONNX-trained model** to the main character, which was traine
   ![vr_scene3](Figers/vr_scene3.jpg)
 
 ---
+##🚀 Recommendations
+
+Expand injury database (knee, shoulder, spine, ankle).
+
+Collaborate with physiotherapists for personalized plans.
+
+Partner with clinics and hospitals for integration.
+
+Add chatbot/virtual assistant for live guidance.
+
+Improve UI/UX based on patient feedback.
+
+Offer device versions for different age groups.
+
+Build a community feature for progress sharing.
+
+---
+
+##💼 Business Model Canvas
+
+Key Partners: Physiotherapy centers, hospitals, sensor tech companies, cloud providers.
+
+Value Proposition: Smart, interactive, safe, and motivational physiotherapy at home.
+
+Customer Segments: Knee injury patients (18–50), rehabilitation clinics, medical institutions.
+
+Revenue Streams: Device sales, monthly subscriptions, loyalty incentives.
+
+---
+
+##📈 Cost & Revenue Model
+
+Cost per product: ~EGP 3500
+
+Selling price: ~EGP 4400 (+20% margin)
+
+Monthly profit (15 devices): ~EGP 13,500
+
+Annual profit: ~EGP 162,000
+
+Subscription revenue: ~EGP 27,000 yearly
+
+---
+
+##🔮 Future Work
+
+Personalized treatment plans
+
+AI-powered smart virtual trainer
+
+Advanced VR interaction
+
+Multi-injury rehabilitation support
+
+---
+
+##📚 References
+
+Alalou, Dr. Samar Sassi (2024). Difficulties faced by the patient for not adhering to his treatment sessions in physiotherapy centers.
+
+Ali, M. (n.d.). The chaos of physiotherapy in Egypt.
+
+Harvard Health. Health information and medical information.
+
+TigaHealth. Mobithera - Physical Therapy and Telemedicine App.
+
+Physiapp. VisiApp®: Personalized Physical Therapy and Telehealth Platform.
+---
 
 ## 🔧 Dependencies
 ```Python Libraries
