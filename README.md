@@ -5,6 +5,25 @@
 
 ---
 
+# ⚙️ Technologies Used
+This project leverages a combination of **hardware, software, and AI frameworks** to deliver a fully integrated physiotherapy solution.
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)](#)
+[![ONNX](https://img.shields.io/badge/ONNX-Interoperability-005CED?logo=onnx&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-Game%20Engine-000000?logo=unity&logoColor=white)](#)
+[![C%23](https://img.shields.io/badge/C%23-Unity%20Scripts-239120?logo=c-sharp&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-IoT%20Integration-A22846?logo=raspberrypi&logoColor=white)](#)
+
+---
+
+# 📄 License
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute this work with proper attribution.
+
+---
+
 ## 📌 Abstract
 PhysioTrack is an intelligent, integrated system designed to improve the home rehabilitation experience for knee injury patients through accurate monitoring, interactivity, and motivation. Statistics show that nearly 50% of patients struggle with adhering to home exercise routines, and over 70% of knee injuries require consistent physiotherapy. Additionally, more than 60% of patients face psychological challenges such as anxiety or depression during recovery.  
 
