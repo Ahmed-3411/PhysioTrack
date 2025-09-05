@@ -34,101 +34,47 @@ The system uses IMU and pressure sensors to track movements in real time, with A
 - AI Algorithms for movement analysis  
 - VR Environment (Unity & Oculus)  
 - 3D Virtual Trainer  
-- Reward Points System  
+- Reward Points System
+- **pipeline**  
+  ![pipeline](Figers/pipeline_1%20(1).png)
 
 ---
 
 ## 📊 Results
+Our ONNX-based squat detection model achieved:  
 - **96% accuracy** in exercise tracking  
 - **80% increase** in user satisfaction due to VR + AI integration  
 - High patient engagement and improved psychological well-being  
 
----
+- **Confusion Matrix**  
+  ![Confusion Matrix](Figers/confusion_matrix.jpg)
 
-## 🚀 Recommendations
-1. Expand injury database (knee, shoulder, spine, ankle).  
-2. Collaborate with physiotherapists for personalized plans.  
-3. Partner with clinics and hospitals for integration.  
-4. Add chatbot/virtual assistant for live guidance.  
-5. Improve UI/UX based on patient feedback.  
-6. Offer device versions for different age groups.  
-7. Build a community feature for progress sharing.  
+- **Feature Heatmap**  
+  ![Feature Heatmap](Figers/feature_heatmap.jpg)
 
----
+- **Receiver Operating Characteristic**  
+  ![Operating Characteristic](Figers/Fig5_ROC.png)
 
-## 💼 Business Model Canvas
-- **Key Partners:** Physiotherapy centers, hospitals, sensor tech companies, cloud providers.  
-- **Value Proposition:** Smart, interactive, safe, and motivational physiotherapy at home.  
-- **Customer Segments:** Knee injury patients (18–50), rehabilitation clinics, medical institutions.  
-- **Revenue Streams:** Device sales, monthly subscriptions, loyalty incentives.  
+- **Model Performance Metrics**  
+  ![metrics](project_results/metrics.png)
 
 ---
 
-## 📈 Cost & Revenue Model
-- **Cost per product:** ~EGP 3500  
-- **Selling price:** ~EGP 4400 (+20% margin)  
-- **Monthly profit (15 devices):** ~EGP 13,500  
-- **Annual profit:** ~EGP 162,000  
-- **Subscription revenue:** ~EGP 27,000 yearly  
+## GUI VR
+The system integrates a **virtual coach (3D character)** inside the VR environment.  
+This coach demonstrates each exercise step-by-step, helping patients visually understand how to perform movements correctly.  
 
----
+To further support learning, **illustrative diagrams** are displayed for each exercise, allowing patients to compare the correct vs. incorrect posture.  
 
-## 🔮 Future Work
-- Personalized treatment plans  
-- AI-powered smart virtual trainer  
-- Advanced VR interaction  
-- Multi-injury rehabilitation support  
+By connecting the **ONNX-trained model** to the main character, which was trained on real squat exercise videos, the system is able to:  
+- Provide **instant feedback** (audio/visual) on whether the patient is performing the movement correctly.  
+- Highlight the **accuracy percentage** of the performed exercise in real time.
 
----
+- **vr_scene1**  
+  ![vr_scene1](Figers/vr_scene1.jpg)
 
-## 📚 References
-1. Alalou, Dr. Samar Sassi (2024). *Difficulties faced by the patient for not adhering to his treatment sessions in physiotherapy centers.*  
-2. Ali, M. (n.d.). *The chaos of physiotherapy in Egypt.*  
-3. Harvard Health. *Health information and medical information.*  
-4. TigaHealth. *Mobithera - Physical Therapy and Telemedicine App.*  
-5. Physiapp. *VisiApp®: Personalized Physical Therapy and Telehealth Platform.*  
+- **vr_scene2**  
+  ![vr_scene2](Figers/vr_scene2.jpg)
 
----
-
-## 🔧 Dependencies
-### Python Libraries
-```txt
-```
-# Core scientific libraries
-numpy
-pandas
-scipy
-scikit-learn
-```
-```
-# Deep learning frameworks
-tensorflow
-torch
-torchvision
-```
-```
-# ONNX model support
-onnx
-onnxruntime
-```
-```
-# Computer vision
-opencv-python
-mediapipe
-```
-```
-# Visualization & data analysis
-matplotlib
-seaborn
-notebook
-```
-```
-# Hardware / IoT communication
-pyserial
-smbus2   # for I2C sensors on Raspberry Pi
-RPi.GPIO # if using Raspberry Pi GPIO pins
-```
-```
-# Game engine / VR interaction (Python side)
-pygame
-```
+- **vr_scene3**  
+  ![vr_scene3](Figers/vr_scene3.jpg)
