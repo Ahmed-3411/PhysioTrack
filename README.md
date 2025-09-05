@@ -77,63 +77,64 @@ By connecting the **ONNX-trained model** to the main character, which was traine
   ![vr_scene3](Figers/vr_scene3.jpg)
 
 ---
-##🚀 Recommendations
 
-Expand injury database (knee, shoulder, spine, ankle).
+## 🚀 Recommendations
 
-Collaborate with physiotherapists for personalized plans.
+- Expand injury database (knee, shoulder, spine, ankle).
 
-Partner with clinics and hospitals for integration.
+- Collaborate with physiotherapists for personalized plans.
 
-Add chatbot/virtual assistant for live guidance.
+- Partner with clinics and hospitals for integration.
 
-Improve UI/UX based on patient feedback.
+- Add chatbot/virtual assistant for live guidance.
 
-Offer device versions for different age groups.
+- Improve UI/UX based on patient feedback.
 
-Build a community feature for progress sharing.
+- Offer device versions for different age groups.
 
----
-
-##💼 Business Model Canvas
-
-Key Partners: Physiotherapy centers, hospitals, sensor tech companies, cloud providers.
-
-Value Proposition: Smart, interactive, safe, and motivational physiotherapy at home.
-
-Customer Segments: Knee injury patients (18–50), rehabilitation clinics, medical institutions.
-
-Revenue Streams: Device sales, monthly subscriptions, loyalty incentives.
+- Build a community feature for progress sharing.
 
 ---
 
-##📈 Cost & Revenue Model
+## 💼 Business Model Canvas
 
-Cost per product: ~EGP 3500
+- Key Partners: Physiotherapy centers, hospitals, sensor tech companies, cloud providers.
 
-Selling price: ~EGP 4400 (+20% margin)
+- Value Proposition: Smart, interactive, safe, and motivational physiotherapy at home.
 
-Monthly profit (15 devices): ~EGP 13,500
+- Customer Segments: Knee injury patients (18–50), rehabilitation clinics, medical institutions.
 
-Annual profit: ~EGP 162,000
-
-Subscription revenue: ~EGP 27,000 yearly
+- Revenue Streams: Device sales, monthly subscriptions, loyalty incentives.
 
 ---
 
-##🔮 Future Work
+## 📈 Cost & Revenue Model
 
-Personalized treatment plans
+- Cost per product: ~EGP 3500
 
-AI-powered smart virtual trainer
+- Selling price: ~EGP 4400 (+20% margin)
 
-Advanced VR interaction
+- Monthly profit (15 devices): ~EGP 13,500
 
-Multi-injury rehabilitation support
+- Annual profit: ~EGP 162,000
+
+- Subscription revenue: ~EGP 27,000 yearly
 
 ---
 
-##📚 References
+## 🔮 Future Work
+
+- Personalized treatment plans
+
+- AI-powered smart virtual trainer
+
+- Advanced VR interaction
+
+- Multi-injury rehabilitation support
+
+---
+
+## 📚 References
 
 Alalou, Dr. Samar Sassi (2024). Difficulties faced by the patient for not adhering to his treatment sessions in physiotherapy centers.
 
@@ -144,6 +145,7 @@ Harvard Health. Health information and medical information.
 TigaHealth. Mobithera - Physical Therapy and Telemedicine App.
 
 Physiapp. VisiApp®: Personalized Physical Therapy and Telehealth Platform.
+
 ---
 
 ## 🔧 Dependencies
