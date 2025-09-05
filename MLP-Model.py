@@ -91,15 +91,15 @@ plt.show()
 import tf2onnx
 import tensorflow as tf
 
-# إعداد input_signature
+
 input_signature = [tf.TensorSpec([None, X_train.shape[1]], tf.float32, name="input")]
 
-# لف الموديل داخل tf.function
+
 @tf.function(input_signature=input_signature)
 def model_func(x):
     return model(x)
 
-# التحويل إلى ONNX
+
 onnx_model, _ = tf2onnx.convert.from_function(
     model_func,
     input_signature=input_signature,
@@ -108,6 +108,7 @@ onnx_model, _ = tf2onnx.convert.from_function(
 )
 
 print("✅ ONNX model saved as 'squat_mlp_model.onnx'")
+
 
 
 
