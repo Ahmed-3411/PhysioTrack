@@ -1,4 +1,4 @@
-# PhysioTrack
+# 🏋️‍♂️🤖 PhysioTrack: AI & IoT for Smart Rehabilitation
 
 **Group Number:** W0223002  
 **Team:** PhysioTrack Team  
