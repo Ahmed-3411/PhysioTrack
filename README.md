@@ -55,12 +55,9 @@ Our ONNX-based squat detection model achieved:
 - **Receiver Operating Characteristic**  
   ![Operating Characteristic](Figers/Fig5_ROC.png)
 
-- **Model Performance Metrics**  
-  ![metrics](project_results/metrics.png)
-
 ---
 
-## GUI VR
+## 🥽 GUI & Visualization
 The system integrates a **virtual coach (3D character)** inside the VR environment.  
 This coach demonstrates each exercise step-by-step, helping patients visually understand how to perform movements correctly.  
 
@@ -78,3 +75,55 @@ By connecting the **ONNX-trained model** to the main character, which was traine
 
 - **vr_scene3**  
   ![vr_scene3](Figers/vr_scene3.jpg)
+
+---
+
+## 🔧 Dependencies
+```Python Libraries
+# Core scientific libraries
+numpy
+pandas
+scipy
+scikit-learn
+
+# Deep learning frameworks
+tensorflow
+torch
+torchvision
+
+# ONNX model support
+onnx
+onnxruntime
+
+# Computer vision
+opencv-python
+mediapipe
+
+# Visualization & data analysis
+matplotlib
+seaborn
+notebook
+
+# Hardware / IoT communication
+pyserial
+smbus2   # for I2C sensors on Raspberry Pi
+RPi.GPIO # if using Raspberry Pi GPIO pins
+
+# Game engine / VR interaction (Python side)
+pygame
+```
+
+---
+
+## Unity Dependencies
+- Unity 2022.3
+
+- Unity Barracuda package (ONNX inference inside Unity)
+
+- Oculus/VR Integration package
+
+---
+
+## 🙏 Acknowledgement
+We would like to express our gratitude to our academic mentors and advisors who provided valuable guidance and support throughout the development of this project.
+Special thanks to our instructors and colleagues who encouraged us and contributed with their feedback during different phases of the work.
