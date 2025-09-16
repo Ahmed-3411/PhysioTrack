@@ -12,9 +12,17 @@ This project leverages a combination of **hardware, software, and AI frameworks*
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)](#)
 [![ONNX](https://img.shields.io/badge/ONNX-Interoperability-005CED?logo=onnx&logoColor=white)](#)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv&logoColor=white)](#)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose%20Estimation-FF6F00?logo=google&logoColor=white)](#)
 [![Unity](https://img.shields.io/badge/Unity-Game%20Engine-000000?logo=unity&logoColor=white)](#)
 [![C%23](https://img.shields.io/badge/C%23-Unity%20Scripts-239120?logo=c-sharp&logoColor=white)](#)
+[![Barracuda](https://img.shields.io/badge/Unity-Barracuda%20ONNX-FF4154?logo=unity&logoColor=white)](#)
+[![Oculus](https://img.shields.io/badge/Oculus-VR%20Integration-1C1E20?logo=oculus&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-IoT%20Integration-A22846?logo=raspberrypi&logoColor=white)](#)
+[![Sensors](https://img.shields.io/badge/Sensors-IMU%20%26%20FSR-FFB300?logo=sensor&logoColor=white)](#)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=plotly&logoColor=white)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Viz-4C9A2A?logo=python&logoColor=white)](#)
+[![Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](#)
+
 
 ---
 
