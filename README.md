@@ -19,10 +19,13 @@ This project leverages a combination of **hardware, software, and AI frameworks*
 [![Oculus](https://img.shields.io/badge/Oculus-VR%20Integration-1C1E20?logo=oculus&logoColor=white)](#)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-IoT%20Integration-A22846?logo=raspberrypi&logoColor=white)](#)
 [![Sensors](https://img.shields.io/badge/Sensors-IMU%20%26%20FSR-FFB300?logo=sensor&logoColor=white)](#)
+[![Butterworth Filter](https://img.shields.io/badge/Signal%20Processing-Butterworth%20Filter-007ACC?logo=azurepipelines&logoColor=white)](#)
+[![Complementary Filter](https://img.shields.io/badge/Sensor%20Fusion-Complementary%20Filter-6C3483?logo=gnometerminal&logoColor=white)](#)
+[![Edge AI](https://img.shields.io/badge/Edge%20AI-Raspberry%20Pi%20Inference-009688?logo=raspberrypi&logoColor=white)](#)
+[![Gamification](https://img.shields.io/badge/Gamification-Avatars%20%26%20Rewards-F39C12?logo=unity&logoColor=white)](#)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?logo=plotly&logoColor=white)](#)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Viz-4C9A2A?logo=python&logoColor=white)](#)
 [![Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](#)
-
 
 ---
 
