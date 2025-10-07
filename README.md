@@ -223,6 +223,6 @@ pygame
 
 ---
 
-## 🙏 Acknowledgemen
+## 🙏 Acknowledgement
 We would like to express our gratitude to our academic mentors and advisors who provided valuable guidance and support throughout the development of this project.
 Special thanks to our instructors and colleagues who encouraged us and contributed with their feedback during different phases of the work.
