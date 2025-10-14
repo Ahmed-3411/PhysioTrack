@@ -1,4 +1,4 @@
-# 🏋️‍♂️🤖 PhysioTrack: AI & IoT for Smart Rehabilitatio
+# 🏋️‍♂️🤖 PhysioTrack: AI & IoT for Smart Rehabilitation
 
 **Team:** PhysioTrack Team  
 
