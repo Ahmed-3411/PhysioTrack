@@ -1,3 +1,4 @@
+![logo](Figers/logo8.png)
 # 🏋️‍♂️🤖 PhysioTrack: AI & IoT for Smart Rehabilitation
 
 **Team:** PhysioTrack Team  
