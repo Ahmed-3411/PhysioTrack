@@ -1,4 +1,4 @@
-![Logo](Figers/Logo.png)
+![Logo](Figers/logo2.png)
 
 # 🏋️‍♂️🤖 PhysioTrack: AI & IoT for Smart Rehabilitation
 
