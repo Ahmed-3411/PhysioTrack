@@ -1,4 +1,4 @@
-# 🏋️‍♂️🤖 PhysioTrack: An Intelligent AI and IoT System for Smart Physical Rehabilitation
+# PhysioTrack: An Intelligent AI and IoT System for Smart Physical Rehabilitation
 
 ![Logo](Figers/logo8.png)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 📌 Abstract
+##  Abstract
 
 Physical rehabilitation is essential for restoring mobility and improving the quality of life after knee injuries. However, patient adherence remains a major challenge due to monotony, lack of motivation, and absence of real-time corrective feedback.
 
@@ -32,7 +32,7 @@ This study demonstrates the potential of AI-driven, home-based physiotherapy sys
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 - Real-time motion tracking via **IMU + FSR sensors**  
 - **AI-powered feedback** for exercise correction  
 - **Virtual Reality coach** in an interactive 3D environment  
@@ -42,7 +42,7 @@ This study demonstrates the potential of AI-driven, home-based physiotherapy sys
 
 ---
 
-## 🛠️ Methods & Materials
+##  Methods & Materials
 
 ### Hardware Components
 - **MPU-6050** (Accelerometer + Gyroscope)  
@@ -62,7 +62,7 @@ This study demonstrates the potential of AI-driven, home-based physiotherapy sys
 
 ---
 
-## 📊 Experimental Results
+##  Experimental Results
 
 ### Confusion Matrix  
 ![Confusion Matrix](Figers/confusion_matrix.jpg)
@@ -75,7 +75,7 @@ This study demonstrates the potential of AI-driven, home-based physiotherapy sys
 
 ---
 
-## 🥽 VR Scenes & Visualization
+##  VR Scenes & Visualization
 
 ### VR Scene Samples
 ![Scene 1](Figers/vr_scene1.jpg)  
@@ -84,7 +84,7 @@ This study demonstrates the potential of AI-driven, home-based physiotherapy sys
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 - Personalized rehab plans  
 - Advanced VR interaction  
 - Full-body motion tracking  
