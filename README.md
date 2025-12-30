@@ -1,4 +1,4 @@
-# PhysioTrack: An Intelligent AI and IoT System for Smart Physical Rehabilitatio
+# PhysioTrack: An Intelligent AI and IoT System for Smart Physical Rehabilitation
 
 ![Logo](Figers/logo8.png)
 
