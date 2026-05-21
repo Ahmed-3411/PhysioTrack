@@ -97,10 +97,7 @@ This study demonstrates the potential of AI-driven, home-based physiotherapy sys
 If you use **PhysioTrack** in your research, please cite:
 
 ```
-Ahmed Talaat Mersal, Awab Mostafa, Salsabil Mostafa, Farha Farghaly, Arwa Eisa.
-PhysioTrack: An Intelligent AI and IoT System for Smart Physical Rehabilitation.
-TechRxiv, 2025.
-DOI: 10.36227/techrxiv.176238015.59132608/v1
+Mersal, Ahmed Talaat, et al. "PhysioTrack: An Intelligent AI and IoT System for Smart Physical Rehabilitation." (2025).‏
 ```
 
 ---
